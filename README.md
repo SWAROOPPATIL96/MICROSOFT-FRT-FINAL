@@ -22,9 +22,13 @@ To solve this problem, I implement a Chatbot related to hospital in my project w
 
 # 1] index Page
 
+The Website is host on Azure static web service
+
 ![index ss](https://user-images.githubusercontent.com/60290610/209924066-f2999760-6131-42c5-b590-11f35a4160c6.JPG)
 
 # 2] Bot Service 
+
+Used a Azure bot For asnwereing frequently asked questions 
 
 ![bot ss](https://user-images.githubusercontent.com/60290610/209925400-3fed2d60-651a-4899-8329-433fae79062b.JPG)
 
